@@ -9,7 +9,7 @@ export const StyledHeading = styled.p`
 
 export const StyledText = styled.p`
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
 `;
 export const StyledPricingTwoCardHeaderTitle = styled.h5`
   font-weight: ${({theme}) => theme.font.weight.bold};

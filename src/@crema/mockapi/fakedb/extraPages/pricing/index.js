@@ -448,31 +448,31 @@ export const pricingData = {
   lovePeople: [
     {
       id: 1,
-      src: '/assets/images/githeart.svg',
+      src: '/assets/images/page-analysis-svgrepo-com.svg',
       heading: 'Landing Page',
       text: 'Website giới thiệu về công ty, sản phẩm',
     },
     {
       id: 2,
-      src: '/assets/images/gitswag.svg',
+      src: '/assets/images/dns-svgrepo-com.svg',
       heading: 'Website quản lý',
       text: 'Web application quản lý các nghiệp vụ đặc thù của công ty, doanh nghiệp',
     },
     {
       id: 3,
-      src: '/assets/images/community.svg',
+      src: '/assets/images/mobile-app-svgrepo-com.svg',
       heading: 'Ứng dụng Mobile',
       text: 'Ứng dụng trên thiết bị di động Android, IOS',
     },
     {
       id: 4,
-      src: '/assets/images/githeart.svg',
+      src: '/assets/images/api-interface-svgrepo-com.svg',
       heading: 'Ứng dụng mã nguồn mở',
       text: 'Triển khai ứng dụng mã nguồn mở theo yêu cầu',
     },
     {
       id: 5,
-      src: '/assets/images/gitswag.svg',
+      src: '/assets/images/host-record-svgrepo-com.svg',
       heading: 'Hỗ trợ CNTT',
       text: 'Hỗ trợ, tư vấn về hạ tầng CNTT như hosting, sao lưu, khôi phục dữ liệu',
     },
